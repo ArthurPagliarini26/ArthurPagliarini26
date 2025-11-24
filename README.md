@@ -2,5 +2,5 @@
 
 - 🔭 Atualmente estou cursando dois cursos na área de TI
 - 🌱 Programo em linguagens como Java e C
-- 👯 Consigo desempenhar com MySQL
+- 👯 Sei programar com MySQL
 
