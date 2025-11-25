@@ -36,9 +36,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArthurMartins26/ArthurMartins26/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArthurMartins26/ArthurMartins26/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/ArthurMartins26/ArthurMartins26/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arthurpagliarini26/Arthurpagliarini26/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arthurpagliarini26/Arthurpagliarini26/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Arthurpagliarini26/Arthurpagliarini26/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
