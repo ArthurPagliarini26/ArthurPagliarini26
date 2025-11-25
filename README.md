@@ -7,15 +7,11 @@
 
 ---
 
-## 📊 Status GitHub
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurPagliarini26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPagliarini26&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArthurPagliarini26&theme=shadow-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
-
 
 
 ---
