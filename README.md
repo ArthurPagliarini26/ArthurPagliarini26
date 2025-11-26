@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-💻 Estudante de Tecnologia 
+💻 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂
 <div align="center">
-🔍 Buscando aprendizado constante e evolução técnica
+🔍 𝑩𝒖𝒔𝒄𝒂𝒏𝒅𝒐 𝒂𝒑𝒓𝒆𝒏𝒅𝒊𝒛𝒂𝒅𝒐 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 𝒕𝒆́𝒄𝒏𝒊𝒄𝒂
 </div>
 
 ---
@@ -17,6 +17,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurPagliarini26&bg_color=0d1117&color=2ECC71&line=7EE787&point=7EE787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
+![](https://github-readme-stats.vercel.app/api?username=ArthurPagliarini26&hide_border=false&include_all_commits=false&count_private=false&title_color=2ECC71&text_color=2ECC71&icon_color=2ECC71&bg_color=0D1117)<br/>
 
 ---
 
