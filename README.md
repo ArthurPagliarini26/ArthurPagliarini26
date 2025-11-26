@@ -1,7 +1,7 @@
 <h1 align="center">==Arthur Martins==</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7EE787&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=header" />
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurPagliarini26&bg_color=0d1117&color=DCE8FC&line=7EE787&point=7EE787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurPagliarini26&bg_color=0d1117&color=2ECC71&line=7EE787&point=7EE787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -74,5 +74,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7EE787&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=footer" />
 </p>
