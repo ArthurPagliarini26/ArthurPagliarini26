@@ -1,4 +1,4 @@
-<h1 align="center">🎲  Eu sou o Arthur Martins e amo o Beda 🎲</h1>
+<h1 align="center">🎲  Eu sou o Arthur Martins 🎲</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=header" />
