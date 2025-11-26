@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-💻 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂
+💻 Estudante de Tecnologia
 <div align="center">
-🔍 𝑩𝒖𝒔𝒄𝒂𝒏𝒅𝒐 𝒂𝒑𝒓𝒆𝒏𝒅𝒊𝒛𝒂𝒅𝒐 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 𝒕𝒆́𝒄𝒏𝒊𝒄𝒂
+🔍 Buscando Aprendizado Constante e Evolução Técnica
 </div>
 
 ---
@@ -19,6 +19,8 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=ArthurPagliarini26&hide_border=false&include_all_commits=false&count_private=false&title_color=2ECC71&text_color=2ECC71&icon_color=2ECC71&bg_color=0D1117)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPagliarini26&layout=compact&hide_border=false&include_all_commits=false&count_private=false&title_color=2ECC71&text_color=FFFFFF&icon_color=2ECC71&border_color=FFFFFF&bg_color=0d1117)
 
 ---
 
