@@ -77,11 +77,6 @@
 
 </div>
 
-<p align="right">
-  <img src="https://theriagames.com/wp-content/uploads/2025/02/Dart_Goblin_card_render.webp" width="200" alt="Goblin com Dardo">
-</p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=footer" />
 </p>
