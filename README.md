@@ -5,12 +5,12 @@
 </p>
 
 <div align="center">
-💻 Estudante de Tecnologia
+
+<h2 style="font-size: 20px; text-decoration: none;">💻 Estudante de Tecnologia</h2>
 <div align="center">
-🔍 Buscando Aprendizado Constante e Evolução Técnica
+  <h2 style="font-size: 20px; text-decoration: none;">🔍 Buscando Aprendizado Constante e Evolução Técnica</h2>
 </div>
 
----
 
 <br>
 
