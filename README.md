@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/VirtualBox-183651?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino%20Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A73E8?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
   
   <br>
