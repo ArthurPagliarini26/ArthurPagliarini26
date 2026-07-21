@@ -16,9 +16,16 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=ArthurPagliarini26\&hide_border=false\&include_all_commits=false\&count_private=false\&title_color=2ECC71\&text_color=2ECC71\&icon_color=2ECC71\&bg_color=0D1117)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPagliarini26\&layout=compact\&hide_border=false\&include_all_commits=false\&count_private=false\&title_color=2ECC71\&text_color=FFFFFF\&icon_color=2ECC71\&border_color=FFFFFF\&bg_color=0d1117)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-gamma-tan-86.vercel.app/api?username=ArthurPagliarini26&hide_border=true&include_all_commits=false&count_private=false&title_color=2ECC71&text_color=2ECC71&icon_color=2ECC71&bg_color=0D1117" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-gamma-tan-86.vercel.app/api/top-langs/?username=ArthurPagliarini26&layout=compact&hide_border=true&include_all_commits=false&count_private=false&title_color=2ECC71&text_color=FFFFFF&icon_color=2ECC71&border_color=FFFFFF&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
 
 ---
 
