@@ -10,8 +10,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurPagliarini26\&bg_color=0d1117\&color=FFFFFF\&line=2ECC71\&point=1E8449\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br>
 
 <table align="center">
