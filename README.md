@@ -8,8 +8,6 @@
 
 <h2 style="font-size: 20px; text-decoration: none;">💻 Estudante de Tecnologia</h2>
 
-<h2 style="font-size: 20px; text-decoration: none;">🔍 Buscando Aprendizado Constante e Evolução Técnica</h2>
-
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurPagliarini26\&bg_color=0d1117\&color=FFFFFF\&line=2ECC71\&point=1E8449\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -37,10 +35,10 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-08697A?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
 
